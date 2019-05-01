@@ -1,6 +1,6 @@
 owner=456277748126842886
-prefix=$
-game=R
+prefix=! 
+game=Abdullah
 stayinchannel=true
 songinstatus=false
 token=NTcyOTcxNjM1Mzc2NzgzMzgy.XMkDow.zJVhMH9XjQlTxXvGhlgqMwPsgws
