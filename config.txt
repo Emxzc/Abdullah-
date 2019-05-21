@@ -3,4 +3,4 @@ prefix=A
 game=Abdullah Bot l AHelp
 stayinchannel=true
 songinstatus=false
-token=NTcyOTcxNjM1Mzc2NzgzMzgy.XMkDow.zJVhMH9XjQlTxXvGhlgqMwPsgws
+token=NTcyOTcxNjM1Mzc2NzgzMzgy.XORdxQ.oBGnDWRFpQdwe_M-PtsqHIRkJmY
